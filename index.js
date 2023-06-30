@@ -7,6 +7,7 @@
   - create another for loop to iterate over the array but this selects the element before the first loop selects 
   - create an if condition for when the array pair sum is equal to the target to return true
   or else return false
+  - Console.log the results
 */
 
 
